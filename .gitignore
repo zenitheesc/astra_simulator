@@ -10,3 +10,5 @@ simulator/examples/astra_output*
 *.dat
 *.lprof
 *.log
+flight_profiles/*
+!flight_profiles/example.json

@@ -1,0 +1,16 @@
+{
+    "name": "example",
+    "launch":{
+        "time": "2023-05-10T11:00:00-03:00",
+        "latitude": -15.796388,
+        "longitude":-47.910330,
+        "altitude": 860.0
+    },
+    "number_of_simulations": 50,
+    "balloon_model": "TA800",
+    "lift_kg": 5.5,
+    "payload_weight_kg": 3.7,
+    "parachute_model": "SPH72",
+    "gas_type": "Helium",
+    "timeout_hours": 4
+}
