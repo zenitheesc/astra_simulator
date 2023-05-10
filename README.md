@@ -39,6 +39,14 @@ Create a Flight Profile based on the example given:
     "timeout_hours": 4
 }
 ```
+<details closed>
+<summary>How to get the lift parameter</summary>
+
+This information can be either directly measured after the balloon is inflated using a baggage scale. Or it can be calculated using the [~~HABhub~~ SondeHub calculator](https://sondehub.org/calc/), as a function of either a target burst altitude or ascent rate. 
+
+</details>
+
+
 Then run the script:
 ```shell
 (.venv)$ python3 run_simulation.py --help
