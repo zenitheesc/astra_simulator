@@ -18,6 +18,7 @@ First, use a virtual enviroment
 ```shell
 $ virtualenv .venv
 $ source .venv/bin/activate
+(.venv)$ pip3 install -r requirements.txt
 ```
 Create a Flight Profile based on the example given:
 
